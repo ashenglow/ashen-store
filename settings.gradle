@@ -1,0 +1,5 @@
+rootProject.name = 'ashen-store'
+include 'api'
+include 'testing:modulith-boot'
+include 'domain:member', 'domain:catalog', 'domain:inventory', 'domain:order', 'domain:payment', 'domain:ranking', 'domain:readmodels', 'domain:review', 'domain:shared'
+include 'common:event', 'common:outbox-message-relay', 'common:snowflake', 'common:data-serializer'

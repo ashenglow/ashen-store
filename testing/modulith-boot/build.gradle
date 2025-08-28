@@ -1,0 +1,9 @@
+plugins { id 'java-library' }
+
+dependencies {
+    api 'org.springframework.boot:spring-boot-starter'          // @SpringBootApplication
+    api 'org.springframework.boot:spring-boot-starter-data-jpa' // JPA 자동 구성
+    api 'org.springframework.modulith:spring-modulith-starter-core'
+
+    runtimeOnly 'com.h2database:h2'
+}

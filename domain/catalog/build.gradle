@@ -1,0 +1,19 @@
+plugins { id 'java-library' }
+
+dependencies {
+  implementation 'org.springframework:spring-context'
+  implementation 'org.springframework.data:spring-data-jpa'
+  implementation 'org.springframework.data:spring-data-redis'
+
+  // 컴파일만(애노테이션 인식 용도)
+  compileOnly 'jakarta.persistence:jakarta.persistence-api'
+  compileOnly 'jakarta.transaction:jakarta.transaction-api'
+  compileOnly 'org.springframework.modulith:spring-modulith-api'
+
+  implementation project(':common:snowflake')
+  implementation project(':common:data-serializer')
+
+  testImplementation project(':testing:modulith-boot')
+  testImplementation 'org.springframework.boot:spring-boot-starter-test'
+  testImplementation 'org.springframework.modulith:spring-modulith-starter-test'
+}

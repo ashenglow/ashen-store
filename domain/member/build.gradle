@@ -1,0 +1,10 @@
+plugins { id 'java-library' }
+
+dependencies {
+  implementation 'org.springframework:spring-context'
+  implementation 'org.springframework.data:spring-data-jpa'
+
+  implementation project(':common:snowflake')
+  implementation project(':common:data-serializer')
+
+}

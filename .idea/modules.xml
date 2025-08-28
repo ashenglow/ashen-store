@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ashen-store.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ashen-store.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/data-serializer/ashen-store.common.data-serializer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/data-serializer/ashen-store.common.data-serializer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/event/ashen-store.common.event.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/event/ashen-store.common.event.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/outbox-message-relay/ashen-store.common.outbox-message-relay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/outbox-message-relay/ashen-store.common.outbox-message-relay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/snowflake/ashen-store.common.snowflake.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/snowflake/ashen-store.common.snowflake.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/catalog/ashen-store.domain.catalog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/catalog/ashen-store.domain.catalog.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/catalog/ashen-store.domain.catalog.test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/catalog/ashen-store.domain.catalog.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/inventory/ashen-store.domain.inventory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/inventory/ashen-store.domain.inventory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/member/ashen-store.domain.member.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/member/ashen-store.domain.member.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/order/ashen-store.domain.order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/order/ashen-store.domain.order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/payment/ashen-store.domain.payment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/payment/ashen-store.domain.payment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/ranking/ashen-store.domain.ranking.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/ranking/ashen-store.domain.ranking.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/readmodels/ashen-store.domain.readmodels.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/readmodels/ashen-store.domain.readmodels.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/review/ashen-store.domain.review.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/review/ashen-store.domain.review.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/shared/ashen-store.domain.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/shared/ashen-store.domain.shared.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/modulith-boot/ashen-store.testing.modulith-boot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/modulith-boot/ashen-store.testing.modulith-boot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing/modulith-boot/ashen-store.testing.modulith-boot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/testing/modulith-boot/ashen-store.testing.modulith-boot.test.iml" />
+    </modules>
+  </component>
+</project>

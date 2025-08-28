@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/data-serializer" />
+            <option value="$PROJECT_DIR$/common/event" />
+            <option value="$PROJECT_DIR$/common/outbox-message-relay" />
+            <option value="$PROJECT_DIR$/common/snowflake" />
+            <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/domain/catalog" />
+            <option value="$PROJECT_DIR$/domain/inventory" />
+            <option value="$PROJECT_DIR$/domain/member" />
+            <option value="$PROJECT_DIR$/domain/order" />
+            <option value="$PROJECT_DIR$/domain/payment" />
+            <option value="$PROJECT_DIR$/domain/ranking" />
+            <option value="$PROJECT_DIR$/domain/readmodels" />
+            <option value="$PROJECT_DIR$/domain/review" />
+            <option value="$PROJECT_DIR$/domain/shared" />
+            <option value="$PROJECT_DIR$/testing" />
+            <option value="$PROJECT_DIR$/testing/modulith-boot" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+plugins { id 'java-library' }
+dependencies {
+    api 'org.springframework:spring-context'
+    compileOnly 'org.springframework.boot:spring-boot'
+}

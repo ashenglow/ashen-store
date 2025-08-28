@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "snowflake",
+      "type": "ashen.store.snowflake.SnowflakeIdGenerator",
+      "sourceType": "ashen.store.snowflake.SnowflakeIdGenerator"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
